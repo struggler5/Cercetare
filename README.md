@@ -1,6 +1,13 @@
-# Cercetare
-This project is for Research porpuses for the LTRA Aristotel
+# idk what to call it so for now it's gonna be magic hand
 
-Igiena este de o importanță majoră în spațiile în care prezența sa poate fi vitală, cum ar fi spitalele, facilitățile de procesare a alimentelor și alte locuri din domeniul sănătății. Menținerea unui mediu curat și igienic în aceste spații este crucială pentru prevenirea răspândirii bolilor infecțioase și pentru asigurarea siguranței și bunăstării lucrătorilor și pacienților. Practicile de igienă precare pot duce la proliferarea bacteriilor și virușilor dăunători, crescând riscul de infecții și izbucniri de boli. Prin urmare, este esențial să se implementeze protocoale eficiente de igienă pentru a menține un mediu sigur și sănătos în aceste spații critice.
+> the arduino code is rough as I wrote it 3 years ago and so is the python (probably not very optimized)
 
-Prin urmare, vrem să vă prezentăm proiectul nostru - un sistem de vizualizare computatională care utilizează mișcările mâinilor pentru a controla diverse facilități din industrii, în special în domeniul sănătății. Considerăm că acest sistem are un impact pozitiv și crucial asupra asigurării securității pentru persoanele care lucrează în aceste industrii.
+> picture is  a schematic for the cable work for the arduino uno, but i'm sure it acan be done with other modules with small changes to the schematic but the pins are set in the arduino file so make sure to change that
+
+
+# The main file CV-rec.py
+- it does stuff
+- it comunicates with arduino through the port witch should be change for each machine
+- yes
+
+  *I will not be updating it, let it die*
